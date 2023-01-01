@@ -1,0 +1,1 @@
+# This repo is designed for sharing my thoughts and ideas during implementing a deep learning algorithms
